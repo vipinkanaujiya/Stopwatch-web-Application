@@ -1,0 +1,16 @@
+.stopwatch {
+    text-align: center;
+    margin: 50px;
+    background-color: blueviolet;
+}
+
+#display {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 2em;
+    margin: 5px;
+    color: red;
+}
